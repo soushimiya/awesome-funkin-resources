@@ -139,7 +139,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
   - [Forever Engine Plus](https://github.com/Sword352/Forever-Engine-Plus) - A fork of Forever Engine which aims to maintain the engine by adding and optimizing features as well as fixing its bugs. Allow softcoding features for basic objects such as characters, stages, weeks, but also advanced objects such as shaders.
 - [Codename Engine](https://github.com/YoshiCrafter29/CodenameEngine) - A fork of base game that provides full HScript support for advanced softcoding, along with sorted and half rewritten source for optimisation and ease of use.
   - [Codename Engine Docs](https://github.com/YoshiCrafter29/CodenameEngine/wiki) - Codename Engine modding documenation.
-- [FPS Plus](https://github.com/ThatRozebudDude/FPS-Plus-Public) - A fork of Funkin', as the name suggests, with higher framerate, better input system, rebindable keys and more. [B-Side Redux](https://gamebanana.com/mods/42724) was made on this engine.
+- [FPS Plus](https://github.com/ThatRozebudDude/FPS-Plus-Public) - A fork of base game, as the name suggests, with higher framerate, some QOL features, modding/softcoding support with Polymod and more. [B-Side Redux](https://gamebanana.com/mods/42724) was made on this engine.
 - [Super Engine](https://github.com/superpowers04/Super-Engine) - A fork of Kade Engine that features revamped menus, mod support and online functionality.
 
 - [Leather Engine](https://github.com/Leather128/LeatherEngine) - An engine that includes 1-21 key support, supports mod loading with Polymod and has other useful features like a stage editor.)
